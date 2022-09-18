@@ -1,0 +1,1 @@
+This is an example code built to demonstrate GUI Test Automation. The App under test is built using PyQT. The test function is built using pytest. Please refer the attached PDF for more explanation on the code
